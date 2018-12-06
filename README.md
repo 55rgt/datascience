@@ -1,6 +1,6 @@
 # datascience
 
-> A Vue.js project
+> src 폴더의 components와 page 폴더 내 코드를 보시면 될 것 같습니다.
 
 ## Commands
 
