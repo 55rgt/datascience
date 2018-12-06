@@ -1,0 +1,87 @@
+{
+  "0": {
+    "title": "전체",
+    "color": "#444444",
+    "className": "category_0"
+  },
+  "1": {
+    "title": "안전/환경",
+    "color": "#F1BB63",
+    "className": "category_1"
+  },
+  "2": {
+    "title": "미래",
+    "color": "#FBF286",
+    "className": "category_2"
+  },
+  "3": {
+    "title": "일자리",
+    "color": "#79B1F1",
+    "className": "category_3"
+  },
+  "4": {
+    "title": "보건복지",
+    "color": "#DDE47E",
+    "className": "category_4"
+  },
+  "5": {
+    "title": "정치개혁",
+    "color": "#68B4A8",
+    "className": "category_5"
+  },
+  "6": {
+    "title": "경제민주화",
+    "color": "#BBD08C",
+    "className": "category_6"
+  },
+  "7": {
+    "title": "인권/성평등",
+    "color": "#96A4AD",
+    "className": "category_7"
+  },
+  "8": {
+    "title": "외교/통일/국방",
+    "color": "#D87875",
+    "className": "category_8"
+  },
+  "9": {
+    "title": "육아/교육",
+    "color": "#8F78C9",
+    "className": "category_9"
+  },
+  "10": {
+    "title": "문화/예술/체육/언론",
+    "color": "#F09074",
+    "className": "category_10"
+  },
+  "11": {
+    "title": "반려동물",
+    "color": "#70CFDD",
+    "className": "category_11"
+  },
+  "12": {
+    "title": "교통/건축/국토",
+    "color": "#998B82",
+    "className": "category_12"
+  },
+  "13": {
+    "title": "행정",
+    "color": "#92C58C",
+    "className": "category_13"
+  },
+  "14": {
+    "title": "농산어촌",
+    "color": "#AC75C4",
+    "className": "category_14"
+  },
+  "15": {
+    "title": "저출산/고령화대책",
+    "color": "#7A87C3",
+    "className": "category_15"
+  },
+  "16": {
+    "title": "성장동력",
+    "color": "#DC6E91",
+    "className": "category_16"
+  }
+}

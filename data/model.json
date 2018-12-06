@@ -1,0 +1,11 @@
+{
+  "prediction_0": "LinearSVC",
+  "prediction_1": "LogisticRegression",
+  "prediction_2": "Perceptron",
+  "prediction_3": "SGDClassifier",
+  "prediction_4": "DeepMultiPerceptronClassifier",
+  "prediction_5": "MultiPerceptronClassifier",
+  "prediction_6": "SinglePerceptronClassifier",
+  "prediction_7": "LinearSVC",
+  "prediction_8": "LinearSVC"
+}
